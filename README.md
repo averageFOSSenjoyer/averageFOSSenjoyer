@@ -1,6 +1,6 @@
 ## Hello there, I'm Frank :wave:
 - I am a Computer Engineering student at the University of Illinois at Urbana-Champaign. 
-- I'll be taking Data Structures, Analog Signal Processing, and Digital System (FPGA & Verilog)
+- I am taking Data Structures, Analog Signal Processing, and Digital System (FPGA & Verilog)
 - Currently working on a custom linux kernel and a pycord music bot after
 
 
