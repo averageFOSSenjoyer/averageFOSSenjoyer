@@ -1,6 +1,7 @@
 ## Hello there, I'm Frank :wave:
-- I am a Computer Engineering student at the University of Illinois at Urbana-Champaign. 
+- I am a Computer Engineering student at the University of Illinois at Urbana-Champaign
 - I am taking Computer Architecture and SoC Design
+- I have taken Computer System Engineering, Digital Logic System Design, Parallel Computing, VLSI Design, and Signal Processing
 
 
 ## My tools :computer:
