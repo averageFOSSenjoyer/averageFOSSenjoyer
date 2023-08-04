@@ -10,7 +10,7 @@
 
 ## Contact Info :envelope:
 <img src="https://img.shields.io/badge/Email-zongrui3@illinois.edu-red?style=flat-square&logo=Mail.ru"/>
-<img src="https://img.shields.io/badge/Discord-Majestic%234112-red?style=flat-square&logo=Discord"/>
+<img src="https://img.shields.io/badge/Discord-averagefossenjoyer-red?style=flat-square&logo=Discord"/>
 <a href="https://www.linkedin.com/in/frank-zongrui-cai">
-  <img src="https://img.shields.io/badge/-LinkedIn-red?style=flat-square&logo=LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Frank%20Cai-red?style=flat-square&logo=LinkedIn"/>
   
