@@ -1,7 +1,6 @@
 ## Hello there, I'm Frank :wave:
 - I am a Computer Engineering student at the University of Illinois at Urbana-Champaign. 
-- I am taking Computer Architecture, CUDA Parallel Programming, VLSI Design, and Digital Signal Processing
-- Currently working on a custom linux kernel and a pycord music bot after
+- I am taking Computer Architecture and SoC Design
 
 
 ## My tools :computer:
