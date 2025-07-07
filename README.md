@@ -1,8 +1,8 @@
 ## Hello there, I'm Frank :wave:
 - I'm a MS/PhD ECE student at the University of Illinois Urbana-Champaign
 - My research interests:
-  - Compute Energy Nexus
-  - Waferscale Computing
+  - Compute Energy Nexus System Architectures
+  - Waferscale Systems
   - Silicon Photonics
 
 ## Languages :computer:
